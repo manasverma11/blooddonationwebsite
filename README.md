@@ -1,3 +1,3 @@
 # Blood Donation Website
 
-Live: https://blooddonation.great-site.net (Open in Microsoft Edge)
+Live: https://blooddonation.great-site.net
